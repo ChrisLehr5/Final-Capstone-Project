@@ -1,0 +1,7 @@
+C:\Users\Khyr\Desktop\Capstone Final Project\Capstone Final Project\bin\Debug\Capstone Final Project.exe.config
+C:\Users\Khyr\Desktop\Capstone Final Project\Capstone Final Project\bin\Debug\Capstone Final Project.exe
+C:\Users\Khyr\Desktop\Capstone Final Project\Capstone Final Project\bin\Debug\Capstone Final Project.pdb
+C:\Users\Khyr\Desktop\Capstone Final Project\Capstone Final Project\obj\Debug\Capstone Final Project.csprojAssemblyReference.cache
+C:\Users\Khyr\Desktop\Capstone Final Project\Capstone Final Project\obj\Debug\Capstone Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Khyr\Desktop\Capstone Final Project\Capstone Final Project\obj\Debug\Capstone Final Project.exe
+C:\Users\Khyr\Desktop\Capstone Final Project\Capstone Final Project\obj\Debug\Capstone Final Project.pdb
